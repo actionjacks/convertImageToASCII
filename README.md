@@ -28,8 +28,8 @@ A Go program that converts images into ASCII art. This tool takes an image file 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ascii-art-generator.git
-cd ascii-art-generator
+git clone https://github.com/actionjacks/convertImageToASCII.git
+cd convertImageToASCII
 ```
 
 2. Build the program:
