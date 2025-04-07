@@ -1,3 +1,7 @@
+Contributions are welcome!  
+If you have ideas for improving the ASCII generation algorithm, optimizing performance, or adding new features, feel free to open an issue or submit a pull request.  
+Any help to make this tool better is greatly appreciated!
+
 # ASCII Art Generator
 
 A Go program that converts images into ASCII art. This tool takes an image file (JPEG or PNG) and transforms it into a text-based representation using carefully selected ASCII characters.
